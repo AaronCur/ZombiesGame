@@ -1,0 +1,4 @@
+G:\JointProject1\JointProject1\JointProject1Content\obj\x86\Debug\JointProject1Content.contentprojResolveAssemblyReference.cache
+G:\JointProject1 (6)\JointProject1\JointProject1\JointProject1Content\obj\x86\Debug\JointProject1Content.contentprojResolveAssemblyReference.cache
+C:\Users\aaron\Downloads\JointProject1(latest)\JointProject1\JointProject1\JointProject1Content\obj\x86\Debug\JointProject1Content.contentprojResolveAssemblyReference.cache
+G:\JointProject1(latest forreal)\JointProject1(latest)\JointProject1\JointProject1\JointProject1Content\obj\x86\Debug\JointProject1Content.contentprojResolveAssemblyReference.cache

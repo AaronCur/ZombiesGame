@@ -1,0 +1,209 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>player_sprite_down .png</Source>
+      <Name>player_sprite_down</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\JointProject1(latest forreal)\JointProject1(latest)\JointProject1\JointProject1\JointProject1\bin\x86\Debug\Content\player_sprite_down.xnb</Output>
+      <Time>2016-02-08T09:25:39.2531287+00:00</Time>
+    </Item>
+    <Item>
+      <Source>player_sprite_left .png</Source>
+      <Name>player_sprite_left</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\JointProject1(latest forreal)\JointProject1(latest)\JointProject1\JointProject1\JointProject1\bin\x86\Debug\Content\player_sprite_left.xnb</Output>
+      <Time>2016-02-08T09:25:39.2999983+00:00</Time>
+    </Item>
+    <Item>
+      <Source>player_sprite_right .png</Source>
+      <Name>player_sprite_right</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\JointProject1(latest forreal)\JointProject1(latest)\JointProject1\JointProject1\JointProject1\bin\x86\Debug\Content\player_sprite_right.xnb</Output>
+      <Time>2016-02-08T09:25:39.3625036+00:00</Time>
+    </Item>
+    <Item>
+      <Source>player_sprite_up .png</Source>
+      <Name>player_sprite_up</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\JointProject1(latest forreal)\JointProject1(latest)\JointProject1\JointProject1\JointProject1\bin\x86\Debug\Content\player_sprite_up.xnb</Output>
+      <Time>2016-02-08T09:25:39.4249958+00:00</Time>
+    </Item>
+    <Item>
+      <Source>player_still_down .png</Source>
+      <Name>player_still_down</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\JointProject1(latest forreal)\JointProject1(latest)\JointProject1\JointProject1\JointProject1\bin\x86\Debug\Content\player_still_down.xnb</Output>
+      <Time>2016-02-08T09:25:39.4875112+00:00</Time>
+    </Item>
+    <Item>
+      <Source>player_still_left.png</Source>
+      <Name>player_still_left</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\JointProject1(latest forreal)\JointProject1(latest)\JointProject1\JointProject1\JointProject1\bin\x86\Debug\Content\player_still_left.xnb</Output>
+      <Time>2016-02-08T09:25:39.5500111+00:00</Time>
+    </Item>
+    <Item>
+      <Source>player_still_right.png</Source>
+      <Name>player_still_right</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\JointProject1(latest forreal)\JointProject1(latest)\JointProject1\JointProject1\JointProject1\bin\x86\Debug\Content\player_still_right.xnb</Output>
+      <Time>2016-02-08T09:25:39.6125165+00:00</Time>
+    </Item>
+    <Item>
+      <Source>player_still_up .png</Source>
+      <Name>player_still_up</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\JointProject1(latest forreal)\JointProject1(latest)\JointProject1\JointProject1\JointProject1\bin\x86\Debug\Content\player_still_up.xnb</Output>
+      <Time>2016-02-08T09:25:39.6750155+00:00</Time>
+    </Item>
+    <Item>
+      <Source>zombieDown.png</Source>
+      <Name>zombieDown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\JointProject1(latest forreal)\JointProject1(latest)\JointProject1\JointProject1\JointProject1\bin\x86\Debug\Content\zombieDown.xnb</Output>
+      <Time>2016-02-08T09:25:39.8000203+00:00</Time>
+    </Item>
+    <Item>
+      <Source>zombieRight.png</Source>
+      <Name>zombieRight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\JointProject1(latest forreal)\JointProject1(latest)\JointProject1\JointProject1\JointProject1\bin\x86\Debug\Content\zombieRight.xnb</Output>
+      <Time>2016-02-08T09:25:39.9250297+00:00</Time>
+    </Item>
+    <Item>
+      <Source>zombieUp.png</Source>
+      <Name>zombieUp</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\JointProject1(latest forreal)\JointProject1(latest)\JointProject1\JointProject1\JointProject1\bin\x86\Debug\Content\zombieUp.xnb</Output>
+      <Time>2016-02-08T09:25:39.9875709+00:00</Time>
+    </Item>
+    <Item>
+      <Source>zombieLeft.png</Source>
+      <Name>zombieLeft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\JointProject1(latest forreal)\JointProject1(latest)\JointProject1\JointProject1\JointProject1\bin\x86\Debug\Content\zombieLeft.xnb</Output>
+      <Time>2016-02-08T09:25:39.8625222+00:00</Time>
+    </Item>
+    <Item>
+      <Source>arrowDown.png</Source>
+      <Name>arrowDown</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\JointProject1(latest forreal)\JointProject1(latest)\JointProject1\JointProject1\JointProject1\bin\x86\Debug\Content\arrowDown.xnb</Output>
+      <Time>2016-02-08T09:25:38.8156104+00:00</Time>
+    </Item>
+    <Item>
+      <Source>arrowLeft.png</Source>
+      <Name>arrowLeft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\JointProject1(latest forreal)\JointProject1(latest)\JointProject1\JointProject1\JointProject1\bin\x86\Debug\Content\arrowLeft.xnb</Output>
+      <Time>2016-02-08T09:25:38.8781023+00:00</Time>
+    </Item>
+    <Item>
+      <Source>arrowRight.png</Source>
+      <Name>arrowRight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\JointProject1(latest forreal)\JointProject1(latest)\JointProject1\JointProject1\JointProject1\bin\x86\Debug\Content\arrowRight.xnb</Output>
+      <Time>2016-02-08T09:25:38.9406041+00:00</Time>
+    </Item>
+    <Item>
+      <Source>arrowUp.png</Source>
+      <Name>arrowUp</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\JointProject1(latest forreal)\JointProject1(latest)\JointProject1\JointProject1\JointProject1\bin\x86\Debug\Content\arrowUp.xnb</Output>
+      <Time>2016-02-08T09:25:39.0187373+00:00</Time>
+    </Item>
+    <Item>
+      <Source>cemetary.jpg</Source>
+      <Name>cemetary</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\JointProject1(latest forreal)\JointProject1(latest)\JointProject1\JointProject1\JointProject1\bin\x86\Debug\Content\cemetary.xnb</Output>
+      <Time>2016-02-08T09:25:39.1124885+00:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>G:\JointProject1(latest forreal)\JointProject1(latest)\JointProject1\JointProject1\JointProject1\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
+      <Time>2016-02-08T09:25:39.7375101+00:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{B8C08238-7070-455B-9681-FFF0A5CB0A4D}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>G:\JointProject1(latest forreal)\JointProject1(latest)\JointProject1\JointProject1\JointProject1Content\</RootDirectory>
+      <LoggerRootDirectory>G:\JointProject1(latest forreal)\JointProject1(latest)\JointProject1\JointProject1\JointProject1\</LoggerRootDirectory>
+      <IntermediateDirectory>G:\JointProject1(latest forreal)\JointProject1(latest)\JointProject1\JointProject1\JointProject1\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>G:\JointProject1(latest forreal)\JointProject1(latest)\JointProject1\JointProject1\JointProject1\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-04-24T16:52:14.0057858+01:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
